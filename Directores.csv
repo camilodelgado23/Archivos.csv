@@ -1,12 +1,12 @@
-idDirector;nombre;edad;telefono;sexo
-1;Todd Phillips;53;2649851;M
-2;Bong Joon-ho;54;5318743;M
-3;Makoto Shinkai;51;9517236;M
-4;David Fincher;61;7182495;M
-5;Martin Scorsese;81;7201445;M
-6;Damien Chazelle;39;6329174;M
-7;Adam McKay;56;4035882;M
-8;Jhon Krasinski;44;9914725;M
-9;Rob Reiner ;77;3127945;M
-10;Steven Spielberg;77;4085711;M
+idDirector,nombre,edad,telefono,sexo
+1,Todd Phillips,53,2649851,M
+2,Bong Joon-ho,54,3187435,M
+3,Makoto Shinkai,51,9517236,M
+4,David Fincher,61,7182495,M
+5,Martin Scorsese,81,7201445,M
+6,Damien Chazelle,39,6329174,M
+7,Adam McKay,56,4035882,M
+8,Jhon Krasinski,44,9914725,M
+9,Rob Reiner,77,3127945,M
+10,Steven Spielberg,77,4085711,M
 
