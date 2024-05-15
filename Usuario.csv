@@ -1,11 +1,3 @@
-﻿idUsuario;nombre;edad;telefono;sexo;telefono_movil;email
-1;Camilo Delgado;18;6012238;M;3114412751;Camilo.Delgado@gmail.com
-2;Jose Carrera ;22;3587124;M;3108796842;Jose.Carrera@gmail.com
-3;David Melo ;19;6047929;M;3442213842;David.Melo@gmail.com
-4;Simon Burbano ;26;4078293;M;3215634123;Simon.Burbano@gmail.com
-5;Juan Pablo Arebalo;23;3827615;M;3846241538;Juan.Arebalo@gmail.com
-6;Sara Chavez ;26;6423984;F;3612015486;Sara.Chavez@gfail.cof
-7;Juliana Garcia ;30;2458731;F;3145284734;Juliana.Garcia@gfail.cof
-8;Daniela Rodrigez;34;2761700;F;3348639273;Daniela.Rodrigez@gfail.cof
-9;Samuel Moncayo;40;7802155;M;3018253966;Samuel.Moncayo@gmail.com
-10;Isabela Castillo ;32;7951207;F;3075076819;Isabela.Castillo@gfail.cof
+﻿idUsuario,nombre,edad,telefono,sexo,telefono_movil,email
+1,Camilo Delgado,18,6012238,M,3114412751,Camilo.Delgado@gmail.com
+
