@@ -1,0 +1,21 @@
+idUsuarioReaccion,idUsuario,fechaReaccion,tipoReaccion,idContenido
+1,1,2024-05-16,1 (The Joker),Me gusta
+2,1,2024-05-15,2 (Parasite),No me gusta
+3,1,2024-05-14,7 (Don't Look Up),Me gusta
+4,2,2024-05-13,1 (The Joker),Me gusta
+5,2,2024-05-12,8 (Un Lugar en Silencio),Me gusta
+6,2,2024-05-11,2 (Stranger Things),Me gusta
+7,3,2024-05-10,3 (Your Name),Me encanta
+8,3,2024-05-09,4 (The Social Network),Me gusta
+9,3,2024-05-08,6 (La La Land),No me gusta
+10,4,2024-05-07,1 (Game of Thrones),Me encanta
+11,4,2024-05-06,26 (Chapter Two: The Weirdo on Maple Street),Me gusta
+12,4,2024-05-05,5 (Malcolm in the Middle),Me encanta
+13,5,2024-05-04,10 (La Lista de Schindler),Me encanta
+14,5,2024-05-03,28 (Chapter One: Suzie Do You Copy?),Me gusta
+15,5,2024-05-02,7 (Gambito de Dama),Me gusta
+16,1,2024-05-01,5 (Malcolm in the Middle),Me gusta
+17,2,2024-04-30,5 (Malcolm in the Middle),Me gusta
+18,3,2024-04-29,5 (Malcolm in the Middle),No me gusta
+19,4,2024-04-28,5 (Malcolm in the Middle),Me gusta
+20,5,2024-04-27,5 (Malcolm in the Middle),Me encanta
