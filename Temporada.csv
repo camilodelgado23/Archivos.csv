@@ -1,35 +1,35 @@
 idTemporada,lanzamiento,nombre
-1,2011,Temporada1 Game of Thrones 
-2,2012,Temporada2 Game of Thrones 
-3,2013,Temporada3 Game of Thrones
-4,2014,Temporada4 Game of Thrones
-5,2015,Temporada5 Game of Thrones
-6,2016,Temporada6 Game of Thrones
-7,2017,Temporada7 Game of Thrones
-8,2019,Temporada8 Game of Thrones
-9,2016,Temporada1 Stranger Things 
-10,2017,Temporada2 Stranger Things 
-11,2019,Temporada3 Stranger Things 
-12,2022,Temporada4 Stranger Things 
-13,2019,Temporada1 The Boys
-14,2020,Temporada2 The Boys
-15,2022,Temporada3 The Boys
-16,2020,Temporada1 The Undoing
-17,2000,Temporada1 Malcolm in the Middle  
-18,2000,Temporada2 Malcolm in the Middle
-19,2001,Temporada3 Malcolm in the Middle
-20,2002,Temporada4 Malcolm in the Middle
-21,2003,Temporada5 Malcolm in the Middle
-22,2004,Temporada6 Malcolm in the Middle
-23,2005,Temporada7 Malcolm in the Middle
-24,2019,Temporada1 Chernobyl
-25,2020,Temporada1 Gambito de Dama
-26,2017,Temporada1 Dark
-27,2019,Temporada2 Dark
-28,2020,Temporada3 Dark 
-29,2018,Temporada1 Succession
-30,2019,Temporada2 Succession
-31,2021,Temporada3 Succession
-32,2023,Temporada4 Succession
-33,2022,Temporada1 La Casa del Dragon
+T1,2011,Temporada1 Game of Thrones 
+T2,2012,Temporada2 Game of Thrones 
+T3,2013,Temporada3 Game of Thrones
+T4,2014,Temporada4 Game of Thrones
+T5,2015,Temporada5 Game of Thrones
+T6,2016,Temporada6 Game of Thrones
+T7,2017,Temporada7 Game of Thrones
+T8,2019,Temporada8 Game of Thrones
+T9,2016,Temporada1 Stranger Things 
+T10,2017,Temporada2 Stranger Things 
+T11,2019,Temporada3 Stranger Things 
+T12,2022,Temporada4 Stranger Things 
+T13,2019,Temporada1 The Boys
+T14,2020,Temporada2 The Boys
+T15,2022,Temporada3 The Boys
+T16,2020,Temporada1 The Undoing
+T17,2000,Temporada1 Malcolm in the Middle  
+T18,2000,Temporada2 Malcolm in the Middle
+T19,2001,Temporada3 Malcolm in the Middle
+T20,2002,Temporada4 Malcolm in the Middle
+T21,2003,Temporada5 Malcolm in the Middle
+T22,2004,Temporada6 Malcolm in the Middle
+T23,2005,Temporada7 Malcolm in the Middle
+T24,2019,Temporada1 Chernobyl
+T25,2020,Temporada1 Gambito de Dama
+T26,2017,Temporada1 Dark
+T27,2019,Temporada2 Dark
+T28,2020,Temporada3 Dark 
+T29,2018,Temporada1 Succession
+T30,2019,Temporada2 Succession
+T31,2021,Temporada3 Succession
+T32,2023,Temporada4 Succession
+T33,2022,Temporada1 La Casa del Dragon
 
