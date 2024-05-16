@@ -1,21 +1,11 @@
-idUsuarioReaccion,idUsuario,idContenido,tipoReaccion,fechaReaccion
-1,1,1 ,Me gusta,2021-05-16
-2,1,2 ,No me gusta,2022-05-15
-3,1,7 ,Me gusta,2024-05-14
-4,2,1 ,Me gusta,2024-05-13
-5,2,8 ,Me gusta,2023-05-12
-6,2,2 ,Me gusta,2022-05-11
-7,3,3 ,Me encanta,2024-05-10
-8,3,4 ,Me gusta,2020-05-09
-9,3,6 ,No me gusta,2020-05-08
-10,4,1 ,Me encanta,2024-05-07
-11,4,1 ,Me gusta,2021-05-06
-12,4,46 ,Me encanta,2020-05-05
-13,5,10 ,Me encanta,2020-05-04
-14,5,67 ,Me gusta,2021-05-03
-15,5,7 ,Me gusta,2023-05-02
-16,1,5 ,Me gusta,2023-05-01
-17,2,5 ,Me gusta,2024-04-30
-18,3,4 ,No me gusta,2024-04-29
-19,4,5 ,Me gusta,2024-04-28
-20,5,6 ,Me encanta,2024-04-27
+idSerie,titulo,lanzamiento,resumen
+1,The Joker,2019,Arthur Fleck adora hacer reír a la gente pero su carrera como comediante es un fracaso. El repudio social la marginación y una serie de trágicos acontecimientos lo conducen por el sendero de la locura y finalmente cae en el mundo del crimen.
+2,Parasite,2019,Tanto Gi Taek como su familia están sin trabajo. Cuando su hijo mayor Gi Woo empieza a impartir clases particulares en la adinerada casa de los Park las dos familias que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos entablan una relación de resultados imprevisibles.
+3,Your Name,2016,Mitsuha es una adolescente que detesta su vida rural en el campo. Por otro lado Taki es un chico que vive en Tokio y sueña con ser un artista o un arquitecto. Los destinos de estos jóvenes se entrelazan la noche en que dos estrellas caen del cielo y comienzan a intercambiar sus cuerpos de la noche a la mañana. Con el pasar del tiempo desarrollan maneras de comunicarse entre ellos y un creciente anhelo de conocerse en persona.
+4,The Social Network,2010,Mark Zuckerberg un estudiante de Harvard crea la red social que terminará convirtiéndose en Facebook pero recibe acusaciones del cofundador y de dos hermanos que sostienen que la idea fue suya.
+5,The Wolf of Wall Street,2013,Jordan Belfort corredor de bolsa de Nueva York quien fundó la compañía Stratton Oakmont cuando aún era un veinteañero desarrolla hábitos de exceso y corrupción.
+6,La La Land,2016,Sebastian un pianista de jazz y Mia una aspirante a actriz se enamoran locamente pero la ambición desmedida que tienen por triunfar en sus respectivas carreras en una ciudad como Los Ángeles repleta de competencia y carente de piedad pone en peligro su amor.
+7,Don't Look Up,2021,Dos astrónomos mediocres descubren que en pocos meses un meteorito destruirá el planeta Tierra. A partir de ese momento intentan advertir a la humanidad del peligro que se avecina a través de los medios de comunicación.
+8,Un Lugar en Silencio,2018,En el año 2020 unas criaturas misteriosas con un sentido auditivo extraordinario han diezmado a la población mundial. Una familia se oculta en una cabaña y se comunica mediante la lengua de signos para no ser cazados por estos monstruos.
+9,Stand by Me,1986,Cuatro amigos comparten lo que podría ser su ultima aventura cuando van en busca del cadáver de un joven desaparecido.
+10,La Lista de Schindler,1993,El empresario alemán Oskar Schindler miembro del Partido Nazi pone en marcha un elaborado costoso y arriesgado plan para salvar a más de mil judíos del Holocausto.
