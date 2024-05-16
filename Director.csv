@@ -1,25 +1,25 @@
 idDirector,nombre,edad,telefono,sexo
-1,Todd Phillips,53,2649851,M
-2,Bong Joon-ho,54,5318743,M
-3,Makoto Shinkai,51,9517236,M
-4,David Fincher,61,7182495,M
-5,Martin Scorsese,81,7201445,M
-6,Damien Chazelle,39,6329174,M
-7,Adam McKay,56,4035882,M
-8,Jhon Krasinski,44,9914725,M
-9,Rob Reiner,77,3127945,M
-10,Steven Spielberg,77,4085711,M
-11,David Benioff,53,5049315,M
-12,Daniel Brett Weiss,51,8229941,M
-13,Matt Duffer,40,1384755,M
-14,Ross Duffer,40,4877518,M
-15,Eric Kripke,48,1584318,M
-16,Susanne Bier,64,7451885,F
-17,Linwood Boomer,69,4321570,M
-18,Johan Renck,57,7594823,M
-19,Scott Frank,62,2881544,M
-20,Allan Scott,82,3118755,M
-21,Baran bo Odar,46,5410781,M
-22,Jantje Friese,47,5221799,F
-23,Jesse Armstrong,53,8546915,M
-24,Clare Kilner,74,1147266,F
+D1,Todd Phillips,53,2649851,M
+D2,Bong Joon-ho,54,5318743,M
+D3,Makoto Shinkai,51,9517236,M
+D4,David Fincher,61,7182495,M
+D5,Martin Scorsese,81,7201445,M
+D6,Damien Chazelle,39,6329174,M
+D7,Adam McKay,56,4035882,M
+D8,Jhon Krasinski,44,9914725,M
+D9,Rob Reiner,77,3127945,M
+D10,Steven Spielberg,77,4085711,M
+D11,David Benioff,53,5049315,M
+D12,Daniel Brett Weiss,51,8229941,M
+D13,Matt Duffer,40,1384755,M
+D14,Ross Duffer,40,4877518,M
+D15,Eric Kripke,48,1584318,M
+D16,Susanne Bier,64,7451885,F
+D17,Linwood Boomer,69,4321570,M
+D18,Johan Renck,57,7594823,M
+D19,Scott Frank,62,2881544,M
+D20,Allan Scott,82,3118755,M
+D21,Baran bo Odar,46,5410781,M
+D22,Jantje Friese,47,5221799,F
+D23,Jesse Armstrong,53,8546915,M
+D24,Clare Kilner,74,1147266,F
