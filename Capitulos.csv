@@ -1,0 +1,236 @@
+idEpisodio;titulo;numero_episodio;duracion
+1;Winter Is Coming;1;62
+2;The Kingsroad;2;56
+3;Lord Snow;3;58
+4;Cripples Bastards and Broken Things;4;56
+5;The Wolf and the Lion;5;55
+6;A Golden Crown;6;53
+7;You Win or You Die;7;58
+8;The Pointy End;8;59
+9;Baelor;9;57
+10;Fire and Blood;10;53
+11;The North Remembers;1;53
+12;The Night Lands;2;54
+13;What Is Dead May Never Die ;3;53
+14;Garden of Bones;4;50
+15;The Ghost of Harrenhal;5;54
+16;The Old Gods and the New;6;54
+17;A Man Without Honor;7;56
+18;The Prince of Winterfell;8;53
+19;Blackwater;9;54
+20;Valar Morghulis;10;64
+21;Valar Dohaeris;1;55
+22;Dark Wings, Dark Words;2;57
+23;Walk of Punishment;3;54
+24;And Now His Watch Is Ended;4;54
+25;Kissed by Fire;5;57
+26;The Climb;6;54
+27;The Bear and the Maiden Fair;7;57
+28;Second Sons;8;56
+29;The Rains of Castamere;9;51
+30;Mhysa;10;64
+31;Two Swords;1;59
+32;The Lion and the Rose;2;52
+33;Breaker of Chains;3;58
+34;Oathkeeper;4;59
+35;First of His Name ;5;54
+36;The Laws of Gods and Men;6;50
+37;Mockingbird;7;52
+38;The Mountain and the Viper;8;51
+39;The Watchers on the Wall;9;51
+40;The Children;10;66
+41;The Wars to Come;1;52
+42;The House of Black and White;2;55
+43;High Sparrow;3;59
+44;Sons of the Harpy;4;50
+45;Kill the Boy ;5;57
+46;Unbowed Unbent Unbroken;6;57
+47;The Gift;7;59
+48;Hardhome;8;61
+49;The Dance of Dragons;9;53
+50;Mother's Mercy;10;60
+51;The Red Woman;1;50
+52;Home ;2;54
+53;Oathbreaker ;3;52
+54;Book of the Stranger ;4;59
+55;The Door;5;57
+56;Blood of My Blood ;6;52
+57;The Broken Man;7;51
+58;No One ;8;59
+59;Battle of the Bastards;9;60
+60;The Winds of Winter ;10;68
+61;Dragonstone ;1;59
+62;Stormborn ;2;59
+63;The Queen's Justice;3;63
+64;The Spoils of War ;4;50
+65;Eastwatch ;5;59
+66;Beyond the Wall ;6;70
+67;The Dragon and the Wolf ;7;80
+68;Winterfell ;1;54
+69;A Knight of the Seven Kingdoms ;2;58
+70;The Long Night;3;82
+71;The Last of the Starks ;4;78
+72;The Bells ;5;80
+73;The Iron Throne ;6;80
+74;Chapter One: The Vanishing of Will Byers ;1;47
+75;Chapter Two: The Weirdo on Maple Street ;2;55
+76;Chapter Three: Holly Jolly;3;51
+77;Chapter Four: The Body ;4;50
+78;Chapter Five: The Flea and the Acrobat;5;52
+79;Chapter Six: The Monster;6;46
+80;Chapter Seven: The Bathtub;7;41
+81;Chapter Eight: The Upside Down ;8;55
+82;Chapter One: MADMAX ;1;48
+83;Chapter Two: Trick or Treat Freak ;2;56
+84;Chapter Three: The Pollywog;3;52
+85;Chapter Four: Will the Wise ;4;45
+86;Chapter Five: Dig Dug;5;51
+87;Chapter Six: The Spy ;6;47
+88;Chapter Seven: The Lost Sister ;7;45
+89;Chapter Eight: The Mind Flayer ;8;50
+90;Chapter Nine: The Gate;9;55
+91;Chapter One: Suzie Do You Copy?;1;51
+92;Chapter Two: The Mall Rats;2;50
+93;Chapter Three: The Case of the Missing Lifeguard ;3;50
+94;Chapter Four: The Sauna Test ;4;53
+95;Chapter Five: The Flayed ;5;52
+96;Chapter Six: E Pluribus Unum ;6;51
+97;Chapter Seven: The Bite ;7;55
+98;Chapter Eight: The Battle of Starcourt ;8;77
+99;Chapter One: The Hellfire Club;1;76
+100;Chapter Two: Vecna's Curse;2;77
+101;Chapter Three: The Monster and the Superhero;3;64
+102;Chapter Four: Dear Billy;4;79
+103;Chapter Five: The Nina Project;5;76
+104;Chapter Six: The Dive;6;75
+105;Chapter Seven: The Massacre at Hawkins Lab;7;98
+106;Chapter Eight: Papa;8;85
+107;Chapter Nine: The Piggyback;9;150
+108;The Name of the Game ;1;60
+109;Cherry;2;60
+110;Get Some ;3;60
+111;The Female of the Species;4;60
+112;Good for the Soul ;5;60
+113;The Innocents ;6;66
+114;The Self-Preservation Society ;7;60
+115;You Found Me ;8;66
+116;The Big Ride;1;60
+117;Proper Preparation and Planning;2;66
+118;Over the Hill with the Swords of a Thousand Men;3;66
+119;Nothing Like It in the World;4;66
+120;We Gotta Go Now ;5;66
+121;The Bloody Doors Off ;6;67
+122;Butcher, Baker, Candlestick Maker;7;66
+123;What I Know;8;68
+124;Payback;1;62
+125;he Only Man in the Sky;2;59
+126;Barbary Coast;3;64
+127;Glorious Five Year Plan ;4;60
+128;The Last Time to Look on This World of Lies;5;66
+129;Herogasm;6;68
+130;Here Comes a Candle to Light You to Bed;7;65
+131;The Instant White-Hot Wild ;8;68
+132;Pilot ;1;23
+133;Red Dress ;2;23
+134;Home Alone 4;3;23
+135;Shame;4;23
+136;Malcolm Babysits ;5;23
+137;Traffic Jam;1;23
+138;Halloween Approximately ;2;23
+139;Lois's Birthday ;3;23
+140;Dinner Out;4;23
+141;Casino ;5;23
+142;Houseboat ;1;23
+143;Emancipation;2;23
+144;Book Club;3;23
+145;Malcolm's Girlfriend;4;23
+146;Christmas ;5;23
+147;Zoo;1;23
+148;Humilithon;2;23
+149;Family Reunion ;3;23
+150;Stupid Girl ;4;23
+151;Forwards Backwards ;5;23
+152;Vegas ;1;23
+153;Watching the Baby ;2;23
+154;Goodbye Kitty;3;23
+155;Thanksgiving ;4;23
+156;Malcolm Films Reese;5;23
+157;Reese Comes Home ;1;23
+158;Buseys Run Away;2;23
+159;Standee;3;23
+160;Pearl Harbor;4;23
+161;Kitty's Back ;5;23
+162;Burning Man ;1;23
+163;Health Insurance ;2;23
+164;Reese vs. Stevie;3;23
+165; Halloween ;4;23
+166; Jessica Stays Over;5;23
+167;Openings ;1;59
+168;Exchanges ;2;64
+169;Doubled Pawns ;3;46
+170;Middle Game ;4;48
+171;Fork ;5;60
+172;Adjournment ;6;59
+173;End Game ;7;68
+174;Secrets ;1;51
+175;Lies ;2;45
+176;Past and Present;3;45
+177;Double Lives;4;45
+178;Truths;5;46
+179;Sic Mundus Creatus Est;6;52
+180;Crossroads;7;51
+181;As You Sow so You Shall Reap ;8;52
+182;Everything Is Now ;9;56
+183;Alpha and Omega ;10;62
+184;Beginnings and Endings;1;54
+185;Dark Matter ;2;54
+186;Ghosts ;3;56
+187;The Travelers;4;58
+188;Lost and Found;5;59
+189;An Endless Cycle;6;60
+190;The White Devil ;7;60
+191; Endings and Beginnings ;8;61
+192;Deja-vu ;1;63
+193;The Survivors ;2;58
+194;Adam and Eva;3;60
+195;The Origin ;4;58
+196;Life and Death ;5;60
+197;Light and Shadow ;6;61
+198;Between the Time ;7;62
+199;The Paradise;8;73
+200;Celebration ;1;60
+201;Sh*t Show at the Fk Factory**;2;60
+202;Lifeboats ;3;61
+203;Sad Sack Wasp Trap;4;56
+204; I Went to Market ;5;61
+205;The Summer Palace;1;66
+206;Vaulter ;2;64
+207;Hunting ;3;61
+208;Safe Room;4;63
+209;Tern Haven;5;66
+210;Secession ;1;61
+211;Mass in Time of War ;2;60
+212;The Disruption ;3;58
+213; Lion in the Meadow;4;59
+214;Retired Janitors of Idaho;5;59
+215;The Munsters ;1;62
+216;Rehearsal ;2;61
+217;Connor's Wedding ;3;63
+218;Honeymoon States ;4;60
+219;Kill List;5;61
+220;The Undoing ;1;52
+221;The Missing ;2;52
+222;Do No Harm ;3;52
+223;See No Evil ;4;54
+224;Trial by Fury ;5;60
+225;The Bloody Truth ;6;69
+226;The Heirs of the Dragon;1;66
+227;The Rogue Prince;2;54
+228;Second of His Name;3;64
+229;King of the Narrow Sea;4;63
+230;We light the way;5;60
+231;The Princess and the Queen;6;68
+232;Driftmark;7;59
+233;The lord of the Tides;8;68
+234;The Green Council;9;58
+235;The Black Queen);10;60
