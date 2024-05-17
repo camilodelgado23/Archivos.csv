@@ -1,11 +1,11 @@
-idGenero, nombre
-G1, Comedia 
-G2, Aventura
-G3, Drama 
-G4, Documental
-G5, Militar
-G6, Romantica
-G7, Anime 
-G8, ciencia ficcion
-G9, fantasia
-G10, terror
+idGenero,nombre
+G1,Comedia 
+G2,Aventura
+G3,Drama 
+G4,Documental
+G5,Militar
+G6,Romantica
+G7,Anime 
+G8,ciencia ficcion
+G9,fantasia
+G10,terror
