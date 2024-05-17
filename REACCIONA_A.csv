@@ -1,21 +1,21 @@
 idUsuarioReaccion,idUsuario,idContenido,tipoReaccion,fechaReaccion
 R1,U1,P1,Me gusta,2021-05-16
 R2,U1,P2,No me gusta,2022-05-15
-R3,U1,P7,Me gusta,2024-05-14
+R3,U2,P7,Me gusta,2024-05-14
 R4,U2,P1,Me gusta,2024-05-13
-R5,U2,P8,Me gusta,2023-05-12
-R6,U2,S2,Me gusta,2022-05-11
-R7,U3,P3,Me encanta,2024-05-10
-R8,U3,P4,Me gusta,2020-05-09
-R9,U3,P6,No me gusta,2020-05-08
-R10,U4,S1,Me encanta,2024-05-07
-R11,U4,1,Me gusta,2021-05-06
-R12,U4,46,Me encanta,2020-05-05
-R13,U5,P10,Me encanta,2020-05-04
-R14,U5,67,Me gusta,2021-05-03
-R15,U5,S7,Me gusta,2023-05-02
-R16,U1,S5,Me gusta,2023-05-01
-R17,U2,S5,Me gusta,2024-04-30
-R18,U3,S4,No me gusta,2024-04-29
-R19,U4,S5,Me gusta,2024-04-28
-R20,U5,S6,Me encanta,2024-04-27
+R5,U3,P8,Me gusta,2023-05-12
+R6,U3,S2,Me gusta,2022-05-11
+R7,U4,P3,Me encanta,2024-05-10
+R8,U5,P4,Me gusta,2020-05-09
+R9,U6,P6,No me gusta,2020-05-08
+R10,U6,S1,Me encanta,2024-05-07
+R11,U7,1,Me gusta,2021-05-06
+R12,U8,46,Me encanta,2020-05-05
+R13,U9,P10,Me encanta,2020-05-04
+R14,U9,32,Me gusta,2021-05-03
+R15,U10,S7,Me gusta,2023-05-02
+R16,U10,S5,Me gusta,2023-05-01
+R17,U1,S5,Me gusta,2024-04-30
+R18,U2,S4,No me gusta,2024-04-29
+R19,U6,S5,Me gusta,2024-04-28
+R20,U7,S6,Me encanta,2024-04-27
